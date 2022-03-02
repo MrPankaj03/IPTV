@@ -96,7 +96,7 @@ http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN:STAR-BHARAT
 
 #EXTINF: -1 group-title="MOVIES", Dhinchak ❌
-http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/index.m3u8
 #EXTINF: -1 group-title="MOVIES", BFLIX MOVIES
 
 #EXTINF: -1 group-title="MOVIES", B4U MOVIES
